@@ -1,0 +1,148 @@
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\PayFutureAPI.exe
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\PayFutureAPI.deps.json
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\PayFutureAPI.runtimeconfig.json
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\PayFutureAPI.runtimeconfig.dev.json
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\PayFutureAPI.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\PayFutureAPI.pdb
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\obj\Debug\netcoreapp3.1\PayFutureAPI.csproj.AssemblyReference.cache
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\obj\Debug\netcoreapp3.1\PayFutureAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\obj\Debug\netcoreapp3.1\PayFutureAPI.AssemblyInfoInputs.cache
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\obj\Debug\netcoreapp3.1\PayFutureAPI.AssemblyInfo.cs
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\obj\Debug\netcoreapp3.1\PayFutureAPI.csproj.CoreCompileInputs.cache
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\obj\Debug\netcoreapp3.1\PayFutureAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\obj\Debug\netcoreapp3.1\staticwebassets\PayFutureAPI.StaticWebAssets.Manifest.cache
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\obj\Debug\netcoreapp3.1\staticwebassets\PayFutureAPI.StaticWebAssets.xml
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\PayFutureAPI.styles.css
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\obj\Debug\netcoreapp3.1\PayFutureAPI.RazorTargetAssemblyInfo.cache
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\obj\Debug\netcoreapp3.1\PayFutureAPI.csproj.CopyComplete
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\obj\Debug\netcoreapp3.1\PayFutureAPI.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\obj\Debug\netcoreapp3.1\PayFutureAPI.pdb
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\obj\Debug\netcoreapp3.1\PayFutureAPI.genruntimeconfig.cache
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\obj\Debug\netcoreapp3.1\PayFutureAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\Scrutor.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\sohai\source\repos\PayFuture\PayFutureAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\PayFutureAPI.exe
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\PayFutureAPI.deps.json
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\PayFutureAPI.runtimeconfig.json
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\PayFutureAPI.runtimeconfig.dev.json
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\PayFutureAPI.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\PayFutureAPI.pdb
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\Scrutor.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Projects\Self Study\task\PayFutureAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\Self Study\task\PayFutureAPI\obj\Debug\netcoreapp3.1\PayFutureAPI.csproj.AssemblyReference.cache
+E:\Projects\Self Study\task\PayFutureAPI\obj\Debug\netcoreapp3.1\PayFutureAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Self Study\task\PayFutureAPI\obj\Debug\netcoreapp3.1\PayFutureAPI.AssemblyInfoInputs.cache
+E:\Projects\Self Study\task\PayFutureAPI\obj\Debug\netcoreapp3.1\PayFutureAPI.AssemblyInfo.cs
+E:\Projects\Self Study\task\PayFutureAPI\obj\Debug\netcoreapp3.1\PayFutureAPI.csproj.CoreCompileInputs.cache
+E:\Projects\Self Study\task\PayFutureAPI\obj\Debug\netcoreapp3.1\PayFutureAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\Self Study\task\PayFutureAPI\obj\Debug\netcoreapp3.1\PayFutureAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\Self Study\task\PayFutureAPI\obj\Debug\netcoreapp3.1\staticwebassets\PayFutureAPI.StaticWebAssets.Manifest.cache
+E:\Projects\Self Study\task\PayFutureAPI\obj\Debug\netcoreapp3.1\staticwebassets\PayFutureAPI.StaticWebAssets.xml
+E:\Projects\Self Study\task\PayFutureAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\PayFutureAPI.styles.css
+E:\Projects\Self Study\task\PayFutureAPI\obj\Debug\netcoreapp3.1\PayFutureAPI.RazorTargetAssemblyInfo.cache
+E:\Projects\Self Study\task\PayFutureAPI\obj\Debug\netcoreapp3.1\PayFutureAPI.csproj.CopyComplete
+E:\Projects\Self Study\task\PayFutureAPI\obj\Debug\netcoreapp3.1\PayFutureAPI.dll
+E:\Projects\Self Study\task\PayFutureAPI\obj\Debug\netcoreapp3.1\PayFutureAPI.pdb
+E:\Projects\Self Study\task\PayFutureAPI\obj\Debug\netcoreapp3.1\PayFutureAPI.genruntimeconfig.cache
